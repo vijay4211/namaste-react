@@ -1,0 +1,19 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "This is namste react",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/vijay4211/namaste-react.git"
+  },
+  "keywords": [],
+  "author": "vijay",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
